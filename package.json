@@ -38,17 +38,17 @@
   ],
   "dependencies": {
     "expand-hash": "^0.2.1",
-    "front-matter": "^0.2.0",
-    "gulp-util": "^2.2.0",
+    "front-matter": "^2.1.1",
+    "gulp-util": "^3.0.7",
     "marked": "^0.3.0",
-    "sort-object": "^0.0.6",
+    "sort-object": "^3.0.2",
     "through2": "^2.0.1",
     "util-extend": "^1.0.1"
   },
   "devDependencies": {
     "expect": "^1.20.2",
-    "lab": "^10.9.0",
-    "semistandard": "^8.0.0",
-    "vinyl-fs": "~0.3.5"
+    "lab": "^11.2.1",
+    "semistandard": "^9.1.0",
+    "vinyl-fs": "~2.4.4"
   }
 }
